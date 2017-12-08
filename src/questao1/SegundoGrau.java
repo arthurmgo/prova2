@@ -36,4 +36,6 @@ public class SegundoGrau{
     public double calculaY(double x){
         return this.a*x*x + this.b*x + this.c;
     }
+
+
 }
